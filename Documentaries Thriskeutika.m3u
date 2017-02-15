@@ -1,0 +1,60 @@
+# Hermes-Documentaries-Thriskeutika
+
+#EXTM3U
+
+#EXTINF:1,ΜΕΤΕΩΡΑ - ΟΙ ΒΡΑΧΟΙ ΤΟΥ ΘΕΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=AAcJfczXNS8
+
+#EXTINF:1,ΑΓΙΑ ΓΡΑΦΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=GbxrutKTqKk
+
+#EXTINF:1,ΟΙ 7 ΕΠΙΣΤΟΛΕΣ ΤΗΣ ΑΠΟΚΑΛΥΨΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=KXvXT_MlYWA
+
+#EXTINF:1,ΙΣΤΟΡΙΚΕΣ ΠΗΓΕΣ ΥΠΑΡΞΗΣ ΙΗΣΟΥ ΧΡΙΣΤΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=ecE6KNVLMLg
+
+#EXTINF:1,ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ 1/7
+plugin://plugin.video.youtube/?action=play_video&videoid=v=56VH0C3MZ5Y
+
+#EXTINF:1,ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ 2/7
+plugin://plugin.video.youtube/?action=play_video&videoid=v=P5zn4wJgjmI
+
+#EXTINF:1,ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ 3/7
+plugin://plugin.video.youtube/?action=play_video&videoid=v=3XJupDI_foo
+
+#EXTINF:1,ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ 4/7
+plugin://plugin.video.youtube/?action=play_video&videoid=v=GkTiyylVDJ4
+
+#EXTINF:1,ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ 5/7
+plugin://plugin.video.youtube/?action=play_video&videoid=v=3dWgryYphoE
+
+#EXTINF:1,ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ 6/7
+plugin://plugin.video.youtube/?action=play_video&videoid=v=2kGO-w3OCk0
+
+#EXTINF:1,ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ 7/7
+plugin://plugin.video.youtube/?action=play_video&videoid=v=0S5vMl_GktQ
+
+#EXTINF:1,Η ΙΕΡΗ ΣΙΝΔΟΝΗ ΤΟΥ ΙΗΣΟΥ ΧΡΙΣΤΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=xeS5ITWkNu0
+
+#EXTINF:1,ΑΓΙΟ ΟΡΟΣ - Η ΔΗΜΟΚΡΑΤΙΑ ΤΩΝ ΜΟΝΑΧΩΝ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=uKgDJOo7TAo
+
+#EXTINF:1,ΝΤΟΚΙΜΑΝΤΕΡ ΓΙΑ ΤΟ ΑΓΙΟ ΟΡΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=SNtXbTkz16Q
+
+#EXTINF:1,ΤΑ ΜΥΣΤΙΚΑ ΤΟΥ ΒΑΤΙΚΑΝΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=4ZAlGipGNyk
+
+#EXTINF:1,ΠΑΛΑΙΟ ΚΑΙ ΝΕΟ ΗΜΕΡΟΛΟΓΙΟ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=SHgtM4KizXM
+
+#EXTINF:1,ΤΑ ΕΙΣΟΔΙΑ ΤΗΣ ΘΕΟΤΟΚΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=CI6954I-KYE
+
+#EXTINF:1,Η ΑΠΟΚΑΛΥΨΗ ΤΟΥ ΠΡΟΣΩΠΟΥ ΤΟΥ ΙΩΑΝΝΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=zo7478JBcfE
+
+#EXTINF:1,ΠΕΡΙ ΤΟΥ ΝΑΟΥ ΣΟΛΟΜΩΝΤΟΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=v=YaJuUizs8Ac
