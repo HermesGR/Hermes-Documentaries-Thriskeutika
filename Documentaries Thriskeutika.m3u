@@ -2,6 +2,9 @@
 
 #EXTM3U
 
+#EXTINF:1,ΤΑ 7 ΜΥΣΤΗΡΙΑ ΤΟΥ ΙΗΣΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=FRm8nJeZmDs
+
 #EXTINF:1,ΜΕΤΕΩΡΑ - ΟΙ ΒΡΑΧΟΙ ΤΟΥ ΘΕΟΥ
 plugin://plugin.video.youtube/?action=play_video&videoid=AAcJfczXNS8
 
