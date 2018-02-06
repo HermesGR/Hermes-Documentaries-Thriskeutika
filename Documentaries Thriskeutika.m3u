@@ -2,6 +2,9 @@
 
 #EXTM3U
 
+#EXTINF:1,ΜΥΣΤΙΚΑ ΤΟΥ ΠΑΝΑΓΙΟΥ ΤΑΦΟΥ
+plugin://plugin.video.youtube/?action=play_video&videoid=7B3kPn5z4aM
+
 #EXTINF:1,ΤΑ 7 ΜΥΣΤΗΡΙΑ ΤΟΥ ΙΗΣΟΥ
 plugin://plugin.video.youtube/?action=play_video&videoid=FRm8nJeZmDs
 
